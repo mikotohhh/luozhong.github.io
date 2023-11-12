@@ -15,7 +15,7 @@ Research Focus
 My research interests include:
 - System Security
 - System Reliability
-- System performance 
+- System Performance 
 
 Current Work
 ======
