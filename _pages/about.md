@@ -13,7 +13,7 @@ I’m a senior-year undergraduate student majoring in CS at the University of Wi
 Research Focus
 ======
 My research interests include:
-- System Security
+- System & Software Security
 - System Reliability
 - System Performance 
 
