@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "Luozhong Zhou"
   avatar           : "me.png"
-  bio              : "https://mikotohhh.github.io/luozhong.github.io/assets/resume/Luozhong_Resume__Fuzz_.pdf"
+  bio              : 
+  cv               : <a href="https://mikotohhh.github.io/luozhong.github.io/assets/resume/Luozhong_Resume__Fuzz_.pdf">View my resume</a>
   location         : 
   employer         :
   pubmed           :
