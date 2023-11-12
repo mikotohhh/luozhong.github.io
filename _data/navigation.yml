@@ -15,8 +15,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  # - title: "CV"
-  #   url: /cv/
+  - title: "CV"
+    url: /assets/resume/Luozhong_Resume__Fuzz_.pdf
     
   # - title: "Guide"
   #   url: /markdown/
