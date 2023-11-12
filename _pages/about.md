@@ -8,14 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I’m a senior-year undergraduate student majoring in CS at the University of Wisconsin-Madison. I am interested in building secure and reliable systems. 
+I’m a senior-year undergraduate student majoring in CS at the University of Wisconsin-Madison. My reseaerch goal is to build secure and reliable systems. 
 
-Research 
+Current Work
 ======
-I am working with Prof. Barton Miller and Prof. Sean Peisert (LBNL) on software tampering detection in nuclear arm reduction treaty. In addition, I 
-participate in the uFS project, a (semi)microkernel filesystem developed by ADSL(UW-Madison)
+My research interests include:
+- System Security
+- System Reliability
+- System performance 
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Current Work
+======
+- I am working with Prof. Barton Miller and Prof. Sean Peisert (LBNL) on software tampering detection in nuclear arm reduction treaty.  
+
+- uFS is a (semi)microkernel high-performance filesystem developed by ADSL(UW-Madison), we are working on improve its reliability and fault tolerance
+
+
 
 Getting started
 ======
