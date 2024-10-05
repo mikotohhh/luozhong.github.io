@@ -10,11 +10,11 @@ redirect_from:
 
 Update: I am now a Master student in Computer Science Engineering at Harvard University (A whisper is that Boston has more fun than Madison!). 
 
-I earned my Bachlor's degree in CS at the University of Wisconsin-Madison. My reseaerch goal is to build secure and reliable systems. 
+I earned my Bachlor's degree in CS at the University of Wisconsin-Madison. My research goal is to build secure and reliable systems. 
 
 Research Focus
 ======
-My research interests include:
+My research interests include but not limited to:
 - System & Software Security
 - System Reliability
 - System Performance 
@@ -27,6 +27,6 @@ Past Work
 ======
 - I worked with Prof. Barton Miller and Prof. Sean Peisert (LBNL) on software tampering detection in nuclear arm reduction treaty. Our work has been summarized in an interesting [paper](https://arxiv.org/abs/2404.05946)
 
-- [uFS](https://research.cs.wisc.edu/adsl/Software/uFS/) is a (semi)microkernel high-performance filesystem developed by ADSL(UW-Madison), my contribution included improvement on its reliability and fault tolerance ability.
+- [uFS](https://research.cs.wisc.edu/adsl/Software/uFS/) is a (semi)microkernel high-performance filesystem developed by ADSL(UW-Madison), my contributions include improvements on its reliability and fault tolerance ability.
 
 - I contributed to the state of the art GPU database [crystal](https://github.com/anilshanbhag/crystal). 
